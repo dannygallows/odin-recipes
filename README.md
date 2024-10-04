@@ -1,2 +1,2 @@
 # odin-recipes
-First we find out what we need...
+HTML Website for awesome recipes
